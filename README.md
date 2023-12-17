@@ -50,6 +50,10 @@
 
 - [toptal](https://www.toptal.com/developers/webdevchecklist)
 
+## Bussiness learn plans
+
+- [barcelonadigitaltalent](https://barcelonadigitaltalent.com/programas-formacion-digital/)
+
 ## Learn Code
 
 - [freecodecamp](https://www.freecodecamp.org/)
