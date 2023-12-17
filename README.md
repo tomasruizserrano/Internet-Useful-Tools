@@ -39,7 +39,7 @@
 
 ## WebServer
 
-- [Nginx](https://www.digitalocean.com/community/tools/nginx)
+- [Nginx Config Maker](https://www.digitalocean.com/community/tools/nginx)
 
 ## SEO Tools
 
