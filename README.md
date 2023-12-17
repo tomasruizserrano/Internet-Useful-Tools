@@ -104,4 +104,9 @@
 - [securityheaders](https://securityheaders.com/)
 - [ssllabs](https://www.ssllabs.com/ssltest/)
 
+## Netowrk security
 
+- [icinga monitor](https://icinga.com/)
+- [wazuh XDR+SIEM](https://wazuh.com/)
+- [ossec HIDS](https://www.ossec.net/)
+- [vyos Router+Firewall](https://vyos.io/)
