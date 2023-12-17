@@ -20,6 +20,22 @@
 
 - [shadcn](https://ui.shadcn.com/)
 
+## No-Code Fullstack App 
+
+- [bubble](https://bubble.io/home/apps)
+
+## DDBB
+
+- [mongodb](https://www.mongodb.com/)
+
+## Payments
+
+- [stripe](https://stripe.com/es)
+
+## Design
+
+- [figma](https://www.figma.com/)
+
 ## Website CSS
 
 - [tailwindcss](https://tailwindcss.com/)
