@@ -126,3 +126,9 @@
 - [wazuh XDR+SIEM](https://wazuh.com/)
 - [ossec HIDS](https://www.ossec.net/)
 - [vyos Router+Firewall](https://vyos.io/)
+
+
+## AI
+
+- [shell how](https://www.shell.how/)
+- [codepal](https://codepal.ai/)
