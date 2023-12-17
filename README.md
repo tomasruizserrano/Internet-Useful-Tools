@@ -60,6 +60,7 @@
 ## Learning Paths
 
 - [roadmap](https://roadmap.sh/)
+- [fundaciontelefonica](https://mapadelempleo.fundaciontelefonica.com/)
 
 ## Learn CiberSecurity
 
