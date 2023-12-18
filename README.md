@@ -1,6 +1,6 @@
 # Internet-Useful-Tools
 
-## Website Static Stie Genrators
+## Website Static Site  Generators
 
 - [nextjs](https://nextjs.org/)
 - [framer](https://www.framer.com/)
