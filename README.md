@@ -27,6 +27,7 @@
 ## DDBB
 
 - [mongodb](https://www.mongodb.com/)
+- [prisma](https://www.prisma.io/)
 
 ## Payments
 
