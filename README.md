@@ -37,14 +37,18 @@
 
 - [figma](https://www.figma.com/)
 
-## Website CSS
+## Website Tailwind CSS libraries 
 
 - [tailwindcss](https://tailwindcss.com/)
 - [flowbite](https://flowbite.com/)
+- [preline](https://preline.co/)
+- [daisyui](https://daisyui.com/)
 
 ## Documentation 
 
 - [devdocs](https://devdocs.io/)
+- [tsdocs](https://tsdocs.dev/)
+- [devdoc](https://devdoc.net/)
 
 ## Cloud
 
