@@ -13,6 +13,12 @@
 - [tailwindawesome](https://www.tailwindawesome.com/)
 - [uideck](https://uideck.com/templates/)
 - [tailwind-kit](https://www.tailwind-kit.com/templates)
+- [tailgrids](https://tailgrids.com/)
+- [lineicons](https://lineicons.com/)
+- [ayroui](https://ayroui.com/)
+- [tailadmin](https://tailadmin.com/)
+- [tailwindtemplates co](https://tailwindtemplates.co/)
+- [formbold](https://formbold.com/)
 
 ## Animations
 
