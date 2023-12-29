@@ -11,6 +11,7 @@
 - [builtatlightspeed](https://www.builtatlightspeed.com/)
 - [tailwindui](https://tailwindui.com/templates)
 - [tailwindawesome](https://www.tailwindawesome.com/)
+- [uideck](https://uideck.com/templates/)
 
 ## Animations
 
