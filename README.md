@@ -12,6 +12,7 @@
 - [tailwindui](https://tailwindui.com/templates)
 - [tailwindawesome](https://www.tailwindawesome.com/)
 - [uideck](https://uideck.com/templates/)
+- [tailwind-kit](https://www.tailwind-kit.com/templates)
 
 ## Animations
 
