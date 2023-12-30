@@ -19,6 +19,7 @@
 - [tailadmin](https://tailadmin.com/)
 - [tailwindtemplates co](https://tailwindtemplates.co/)
 - [formbold](https://formbold.com/)
+- [astro.build](https://astro.build/themes/?search=&technology%5B%5D=tailwind&price%5B%5D=free)
 
 ## Animations
 
