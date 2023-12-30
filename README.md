@@ -20,6 +20,7 @@
 - [tailwindtemplates co](https://tailwindtemplates.co/)
 - [formbold](https://formbold.com/)
 - [astro.build](https://astro.build/themes/?search=&technology%5B%5D=tailwind&price%5B%5D=free)
+- [ecommercehtml](https://ecommercehtml.com/)
 
 ## Animations
 
@@ -113,7 +114,7 @@
 
 - [hackerone](https://www.hackerone.com/)
 
-## Pentestin tools
+## Pentesting tools
 
 - [nessus tenable](https://www.tenable.com/)
 - [owasp zaproxy](https://www.zaproxy.org/)
