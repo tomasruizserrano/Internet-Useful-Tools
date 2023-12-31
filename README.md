@@ -21,7 +21,7 @@
 - [formbold](https://formbold.com/)
 - [astro.build](https://astro.build/themes/?search=&technology%5B%5D=tailwind&price%5B%5D=free)
 - [ecommercehtml](https://ecommercehtml.com/)
-- [react-magic-motion](https://www.react-magic-motion.com/)
+
 
 ## Animations
 
@@ -43,6 +43,10 @@
 ## Payments
 
 - [stripe](https://stripe.com/es)
+
+## animations
+
+- [react-magic-motion](https://www.react-magic-motion.com/)
 
 ## Design
 
