@@ -23,6 +23,10 @@
 - [ecommercehtml](https://ecommercehtml.com/)
 - [primeng](https://blocks.primeng.org/#/free)
 
+## frameworks para webapps
+
+- NEXTJS (webs mas dinamicas)
+- ASTRO (webs mas estaticas)
 
 ## Animations
 
