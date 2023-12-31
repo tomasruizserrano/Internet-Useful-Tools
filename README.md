@@ -21,11 +21,13 @@
 - [formbold](https://formbold.com/)
 - [astro.build](https://astro.build/themes/?search=&technology%5B%5D=tailwind&price%5B%5D=free)
 - [ecommercehtml](https://ecommercehtml.com/)
+- [primeng](https://blocks.primeng.org/#/free)
 
 
 ## Animations
 
 - [aos](https://michalsnik.github.io/aos/)
+- [auto-animate formkit](https://auto-animate.formkit.com/)
 
 ## Website UI
 
