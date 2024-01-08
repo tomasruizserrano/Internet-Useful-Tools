@@ -103,6 +103,7 @@
 - [theodinproject](https://www.theodinproject.com/)
 - [codewars](https://www.codewars.com/)
 - [hackerrank](https://www.hackerrank.com/)
+- [fullstackopen](https://fullstackopen.com/en/)
 
 ## Learning Paths
 
