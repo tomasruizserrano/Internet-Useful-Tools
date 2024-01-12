@@ -23,6 +23,10 @@
 - [ecommercehtml](https://ecommercehtml.com/)
 - [primeng](https://blocks.primeng.org/#/free)
 
+## Presets
+
+- [starter.dev](https://starter.dev/)
+
 ## frameworks para webapps
 
 - NEXTJS (webs mas dinamicas)
